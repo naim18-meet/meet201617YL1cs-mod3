@@ -2,12 +2,12 @@
 from UserAccount import UserAccount
 
 #Three things are missing from the line below - fill them in
-my_user=UserAccount(  ,  ,  )
+my_user=UserAccount("Goerge","Naim","Trump")
 
 #Call the print_secret method (function) - it takes one input - a guess for the password.
 
 #Use the wrong password as input here
-my_user.
+my_user.print_secret("Avigail")
 
 #Use the right password here
-my_user.
+my_user.print_secret("Naim")
